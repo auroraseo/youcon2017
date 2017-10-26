@@ -1,3 +1,7 @@
+- name: SaratovIT
+  website: https://www.saratovit.ru/
+  logo: static/images/info/saratovit.png
+  hover: static/images/info/saratovit.png
 - name: Saratov24
   website: http://saratov24.tv/
   logo: static/images/info/LOGO_C24.png
